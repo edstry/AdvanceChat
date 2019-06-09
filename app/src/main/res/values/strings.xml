@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AdvanceChat</string>
+    <string name="UserName">Username</string>
+    <string name="CreateNewAcc">Create a new account</string>
+    <string name="EmailText">Email</string>
+    <string name="PasswordText">Password</string>
+    <string name="RegisterButton">REGISTER</string>
+    <string name="LoginButton">LOGIN</string>
+    <string name="Login">LOGIN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TypeMess">Type a message</string>
+    <string name="Search">Search...</string>
+</resources>
